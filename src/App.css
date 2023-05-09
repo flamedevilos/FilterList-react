@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App .input-search {
+  width: 700px;
+}
+
+.App .table-modifie {
+  width: 80%;
+  margin-top: 30px;
+}
